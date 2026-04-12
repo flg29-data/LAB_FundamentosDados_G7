@@ -1,0 +1,13 @@
+services:
+  postgres:
+    image: postgres:17
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    volumes:
+      - ./backups:/backups
+      - ./init:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"

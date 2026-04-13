@@ -55,6 +55,10 @@ Inserir desafio
 
 Incluir tabela participantes do grupo (com papéis e responsabilidades)
 
+## Material de Apresentação
+
+Incluir PPT Apresentação do Projeto
+
 ## Glossário
 
 Inserir glossário

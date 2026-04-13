@@ -1,5 +1,6 @@
 # Projeto Final - Fundamentos Engenharia de Dados  
-**Tema:** Entretenimento - Agência de mídia - música  
+**Tema:** Entretenimento - Agência de mídia - música 
+**Profº:** Wesley Lourenço Barbosa
 
 # Integrantes - Grupo 7
 

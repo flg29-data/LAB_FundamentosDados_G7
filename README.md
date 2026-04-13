@@ -3,11 +3,11 @@
 
 # Integrantes - GRUPO 7
 
-Fernando Luiz
-Igor Graseffi
-Vitor Ribeiro
-Victor Lira
-Armandes
+- Fernando Luiz
+- Igor Graseffi
+- Vitor Ribeiro
+- Victor Lira
+- Armandes
 
 ## Storytellyng
 

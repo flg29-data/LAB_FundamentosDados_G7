@@ -13,7 +13,7 @@
 
 Construção de um pipeline ELT completo, avaliando a qualidade dos dados desde a ingestão (Raw), passando pela transformação (Silver/Gold) até a visualização.
 
-## Storytellyng
+## Storytelling
 
 Somos uma agência de mídia (marketing) especializada na melhoria do desempenho de artistas em promover as suas músicas nos streamings de músicas (exemplo: Spotify, Deezer, Tidal, YouTube, entre outros)
 

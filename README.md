@@ -1,7 +1,7 @@
 # Projeto Final - Fundamentos Engenharia de Dados  
 **Tema:** Entretenimento - Agência de mídia - música  
 
-# Integrantes - GRUPO 7
+# Integrantes - Grupo 7
 
 - Fernando Luiz
 - Igor Graseffi

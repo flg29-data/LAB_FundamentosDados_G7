@@ -1,5 +1,5 @@
 # Projeto Final - Fundamentos Engenharia de Dados  
-**Tema:** Entretenimento - Agência de mídea - música  
+**Tema:** Entretenimento - Agência de mídia - música  
 
 # Integrantes - GRUPO 7
 

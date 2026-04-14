@@ -37,29 +37,40 @@ Que combinações de features geram maior crescimento de inscritos em 60 dias?
 
 ## Execução do Pipeline
 
-Inserir texto
+Em construção
   
 
 ## Vídeo de apresentação
 
-Inserir link vídeo
+Em construção
+
 
 ## Dashboards
 
-Inserir dashboards
+Dashboards em construção
+
 
 ## Desafios Encontrados
 
-Inserir desafio
+Em construção
+
 
 ## Papéis e Responsabilidades
 
-Incluir tabela participantes do grupo (com papéis e responsabilidades)
+| Integrante                   | Perfil Git      | Papel / Reponsabilidade Projeto |
+|--------------------------|----------|----------|
+| Fernando Luiz            | Em construção  | Em construção |
+| Igor Graseffi            | Em construção  | Em construção |
+| João Armandes             | Em construção  | Em construção |
+| Vitor Ribeiro            | Em construção  | Em construção |
+| Victor Lira            | Em construção  | Em construção |
+
 
 ## Material de Apresentação
 
-Incluir PPT Apresentação do Projeto
+Em construção
+
 
 ## Glossário
 
-Inserir glossário
+Em construção

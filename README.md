@@ -26,6 +26,10 @@ Principais questionamentos (problema de negócio):
 Que combinações de features geram maior crescimento de inscritos em 60 dias?
 - Existe um limiar de inscritos a partir do qual conteúdo explícito deixa de ser eficaz?
 
+## Diagrama Storytelling
+
+![Storytelling](Images/Storytelling_G7.png)
+
 ## Configurações realizadas
 
 - DBT

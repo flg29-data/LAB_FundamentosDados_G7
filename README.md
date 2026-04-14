@@ -68,7 +68,7 @@ Em construção
 | Fernando Luiz            | [@flg29-data](https://github.com/flg29-data)  | Em construção |
 | Igor Graseffi            | Em construção  | Em construção |
 | João Armandes             | Em construção  | Em construção |
-| Vitor Ribeiro            | Em construção  | Em construção |
+| Vitor Ribeiro            | [@TheLastAurora](https://github.com/TheLastAurora)  | Em construção |
 | Victor Lira            | Em construção  | Em construção |
 
 

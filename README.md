@@ -32,7 +32,7 @@ Que combinações de features geram maior crescimento de inscritos em 60 dias?
 
 ## Diagrama arquitetura
 
-Inserir diagrama
+![Diagrama](images/Construção_Pipeline_G7.png)
 
 
 ## Execução do Pipeline

@@ -74,7 +74,7 @@ Em construção
 
 ## Material de Apresentação
 
-Em construção
+[Meu projeto](Archives/Projeto Final G7 - Fundamentos Engenharia de Dados.pdf)
 
 
 ## Glossário
